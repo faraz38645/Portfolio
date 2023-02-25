@@ -710,10 +710,10 @@ a:hover{
     }
 
     #circle{
-        border: 270px solid #2d2d39;
+        border: 212px solid #2d2d39;
         border-radius: 50%;
-        top: 50%;
-        left: 2%;
+        top: 58%;
+        left: 3%;
 
     }
 
@@ -722,7 +722,7 @@ a:hover{
         position: absolute;
         top: 7%;
         left: 5%;
-        width: 110%; 
+        width: 138%; 
     }
 
     #im{
@@ -781,21 +781,23 @@ a:hover{
 
 
     #prof_pic{
-        top: 50%;
+        top: 58%;
         left: -8%;
     }
 
-    #pc{
-        height: 50px;
+    
+    #prof_pic img{
+        height: 430px;
+        width: 460px;
     }
     
     
     .segment_3{
         position: absolute;
-        border: 117px solid #3f3e4f;
+        border: 96px solid #3f3e4f;
         top: 133%;
-        left: 2.3%;
-        width: 55%;
+        left: 8.3%;
+        width: 38%;
         
     }
 
@@ -803,7 +805,9 @@ a:hover{
     #service{
         top: 30%;
         left: 5%;
+        width: 124%;
     }
+
     
 
     #ser{
@@ -814,9 +818,9 @@ a:hover{
     
     #boc_line1{
         position: absolute;
-        width: 25%;
+        width: 50%;
         top: -86px;
-        left: -50px;
+        left: -80px;
         
     }
     #boc_line1 img{
@@ -831,9 +835,9 @@ a:hover{
     #boc_line2{
         position: absolute;
         border: 30px solid #353443;
-        width: 25%;
+        width: 50%;
         top: -86px;
-        left: 250px;
+        left: 109px;
         
     }
 
@@ -849,9 +853,9 @@ a:hover{
     #boc_line3{
         position: absolute;
         border: 30px solid #353443;
-        width: 25%;
+        width: 50%;
         top: 6px;
-        left: -50px;
+        left: -80px;
     }
 
     #boc_line3 img{
@@ -866,9 +870,9 @@ a:hover{
     #boc_line4{
         position: absolute;
         border: 30px solid #353443;
-        width: 25%;
+        width: 50%;
         top: 6px;
-        left: 250px;
+        left: 109px;
 
         
     }
@@ -917,7 +921,7 @@ a:hover{
 
         top: 360%;
         left: 17%;
-        width:33%;
+        width:47%;
         
     }
 
@@ -926,7 +930,7 @@ a:hover{
 
         top: 420%;
         left: 17%;
-        width:39%;
+        width:47%;
         
     }
 
@@ -943,11 +947,9 @@ a:hover{
 
     .course{
         top: 22.5%;
-        left: 0.5%;
+        left: -6.5%;
+        
     }
 
     
 }
-
-    
-
