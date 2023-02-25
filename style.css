@@ -689,7 +689,7 @@ a:hover{
 
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
     #logo{
         font-size:small;
         top: 0.3%;
