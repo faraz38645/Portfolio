@@ -687,9 +687,9 @@ a:hover{
     transition: 0.2s ease-in-out;
 }
 
-
-
 @media screen and (max-width: 480px) {
+
+
     #logo{
         font-size:small;
         top: 0.3%;
@@ -710,10 +710,10 @@ a:hover{
     }
 
     #circle{
-        border: 212px solid #2d2d39;
+        border: 227px solid #2d2d39;
         border-radius: 50%;
         top: 58%;
-        left: 3%;
+        left: 4%;
 
     }
 
@@ -722,7 +722,12 @@ a:hover{
         position: absolute;
         top: 7%;
         left: 5%;
-        width: 138%; 
+        width: 94%; 
+        
+
+    }
+    #intro p{
+        width: 80%;
     }
 
     #im{
@@ -736,7 +741,7 @@ a:hover{
     
     #name{
         color: #fdffff;
-        width: 120%;
+        width: 90%;
         font-family: font3;
         font-size:45px;
         word-spacing:25px;
@@ -757,7 +762,7 @@ a:hover{
         position: absolute;
         border: 3px solid #f5bc27;
         width: 26%;
-        top: 50%;
+        top: 55%;
     
         
     }
@@ -768,6 +773,7 @@ a:hover{
     
     .segment_1{
     height:147%;
+    width: 150%;
 
     }
 
@@ -776,13 +782,13 @@ a:hover{
         background-color: #282834;
         top: 147%;
         height: 330%;
-        width: 100%;
+        width: 150%;
     }
 
 
     #prof_pic{
         top: 58%;
-        left: -8%;
+        left: -3%;
     }
 
     
@@ -796,8 +802,8 @@ a:hover{
         position: absolute;
         border: 96px solid #3f3e4f;
         top: 133%;
-        left: 8.3%;
-        width: 38%;
+        left: 6.3%;
+        width: 76%;
         
     }
 
@@ -805,7 +811,7 @@ a:hover{
     #service{
         top: 30%;
         left: 5%;
-        width: 124%;
+        width: 90%;
     }
 
     
@@ -818,9 +824,9 @@ a:hover{
     
     #boc_line1{
         position: absolute;
-        width: 50%;
+        width: 25%;
         top: -86px;
-        left: -80px;
+        left: -44px;
         
     }
     #boc_line1 img{
@@ -835,9 +841,9 @@ a:hover{
     #boc_line2{
         position: absolute;
         border: 30px solid #353443;
-        width: 50%;
+        width: 25%;
         top: -86px;
-        left: 109px;
+        left: 185px;
         
     }
 
@@ -853,9 +859,9 @@ a:hover{
     #boc_line3{
         position: absolute;
         border: 30px solid #353443;
-        width: 50%;
+        width: 25%;
         top: 6px;
-        left: -80px;
+        left: -44px;
     }
 
     #boc_line3 img{
@@ -870,9 +876,9 @@ a:hover{
     #boc_line4{
         position: absolute;
         border: 30px solid #353443;
-        width: 50%;
+        width: 25%;
         top: 6px;
-        left: 109px;
+        left: 185px;
 
         
     }
@@ -937,6 +943,7 @@ a:hover{
 
     .segment_4{
         top: 476.7%;
+        width: 136%;
     }
 
     #needs{
@@ -947,7 +954,7 @@ a:hover{
 
     .course{
         top: 22.5%;
-        left: -6.5%;
+        left: 0.5%;
         
     }
 
