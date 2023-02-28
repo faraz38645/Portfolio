@@ -693,7 +693,7 @@ a:hover{
 
 
 
-@media screen and ( max-width: 400px) {
+@media screen and ( max-width: 480px) {
     
     
     #logo{
@@ -967,18 +967,6 @@ a:hover{
     
 }
 
-
-@media screen and ( max-width: 375px) {
-
-    #circle{
-        top:49%;
-        left: 3%;
-    }
-    #prof_pic{
-        top: 52%;
-        left: -3%;
-    }
-}
 
 
 
